@@ -1,0 +1,6 @@
+C:\Users\Jose\Desktop\c#-workspace\Application\Application\bin\Debug\Application.exe.config
+C:\Users\Jose\Desktop\c#-workspace\Application\Application\bin\Debug\Application.exe
+C:\Users\Jose\Desktop\c#-workspace\Application\Application\bin\Debug\Application.pdb
+C:\Users\Jose\Desktop\c#-workspace\Application\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\c#-workspace\Application\Application\obj\Debug\Application.exe
+C:\Users\Jose\Desktop\c#-workspace\Application\Application\obj\Debug\Application.pdb
